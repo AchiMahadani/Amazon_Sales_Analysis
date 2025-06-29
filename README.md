@@ -64,5 +64,13 @@ The goal of this project is to:
 - Certain categories performed significantly better (e.g., ethnic wear and organizers).
 - Return and delivery patterns give clues to customer satisfaction and logistical performance.
 
+## Overview
+![image](https://github.com/user-attachments/assets/1c860e43-7eb8-4ab3-9c80-c72d942f4cae)
+
+## Product
+![image](https://github.com/user-attachments/assets/fd8280e0-f36d-4cf7-9b50-2f21c840989a)
+
+## Product View
+![image](https://github.com/user-attachments/assets/bf6fbeb2-fd8a-43f7-9687-713b1db4f9e3)
 
 Feel free to fork, enhance, and explore this dashboard further. For any queries or collaboration ideas, feel free to connect!
